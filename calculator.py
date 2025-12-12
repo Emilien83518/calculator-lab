@@ -8,6 +8,9 @@ def Etienne_est_nul_en_mathfonda(a):
 class Golmon:
     def __init__(self,golmon=Etienne):
         self.golmon = golmon
+    def thomas_a_8_en_mecha_fluide(t):
+        return print('thomas pu ca mere')
+        
         
     
 
