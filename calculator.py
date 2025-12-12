@@ -2,6 +2,12 @@ def add(n1, n2):
     return n1 + n2
 def f(t):
     return t
-def thomas_est_nul_au_bay_foot(a):
-    return pritn('thomas=loser")
-# TODO: Add more functions below this line (subtract, multiply, divide)
+def Etienne_est_nul_en_mathfonda(a):
+    return pritn('Etienne=loser")
+
+class Golmon:
+    def __init__(self,golmon=Etienne):
+        self.golmon = golmon
+        
+    
+
